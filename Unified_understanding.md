@@ -33,6 +33,7 @@ MoE-PEFT/moe_peft/model.py
 ```
 
 
+
 ## 模型在训练比如组别为1和组别为3的数据每个专家是如何被选择且激活的（路由机制）
 
 classification, Router 
