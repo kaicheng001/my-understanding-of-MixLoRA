@@ -44,3 +44,6 @@
 
 ### MixLoRA-Framework.md
 - [x] [MixLoRA-Framework.md](./MixLoRA_README/MixLoRA-Framework.md)
+
+### load_data.md
+- [x] [load_data.md](./MixLoRA_README/load_data.md)
