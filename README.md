@@ -12,6 +12,8 @@
 - [adapter_saved.md](#adapter_savedmd)
 - [train.md](#trainmd)
 - [MixLoRA-Framework.md](#mixlora-frameworkmd)
+- [load_data.md](#load_datamd)
+- [lora_init.md](#lora_initmd)
 
 ## Models
 
@@ -47,3 +49,7 @@
 
 ### load_data.md
 - [x] [load_data.md](./MixLoRA_README/load_data.md)
+
+### lora_init.md
+- [x] [lora_init.md](./MixLoRA_README/lora_init.md)
+
